@@ -1,0 +1,20 @@
+<root>
+<sence name = "坦克大战" symbol="tkwar" id="">
+<score></score>
+<stages>
+<stage index="1" score="100">
+<tips symbol="tip_tkwar_stage_4"></tips>
+<toolbox>
+<item src = "tankwar\Blocks\blocks.JS"></item>
+</toolbox>
+<game>
+<script src="tankwar\Engine\game_engine.JS"></script>
+<script src="tankwar\Scene\scene.JS"></script>
+</game>
+<words>
+<item symbol="computer"></item>
+</words>
+</stage>
+</stages>
+</sence>
+</root>

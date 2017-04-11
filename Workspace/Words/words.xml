@@ -1,0 +1,14 @@
+<root>
+<word value="computer" start="4" note="儿童英语/CET4/计算机英语">
+<soundmark>
+<item type="us" value = "美 [kəm'pjutɚ]" sound="sound_word_computer_us"></item>
+<item type="uk" value="英 [kəm'pjuːtə]" sound="sound_word_computer_uk"> </item>
+</soundmark>
+<paraphrase>
+<item>n. 计算机；电脑；电子计算机</item>
+</paraphrase>
+<variant>
+<item name="复数" value="computers"></item>
+</variant>
+</word>
+</root>
