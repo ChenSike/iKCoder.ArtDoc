@@ -1,35 +1,35 @@
 <root>
-<basic>
-<usr id="" nickname="" header=""></usr>
-<sence name = "坦克大战" symbol="tkwar" id="" totalstage="10" currentstage="4"></sence>
-<tips> 
-<item index = "1">
-<content value="常量" blocktype="VAR">
-<content value=":现在坦克战队已经可以在你的控制下移动了, 接下来为坦克增加&quot;射击&quot;能力吧. 请增加键盘事件, 使&quot;空格&quot;键按下时, 坦克可以发射炮弹.">
-</item>
-<item index = "2">
-</item>
-</tips>
-</basic>
-<toolbox src=""></toolbox>
-<workspace></workspace>
-<game>
-<script src="" ></script>
-<script src="" ></script>
-<script src="" ></script>
-</game>
-<words>
-<word value="computer" start="4" note="儿童英语/CET4/计算机英语">
-<soundmark>
-<item type="us" value = "美 [kəm'pjutɚ]" sound=""></item>
-<item type="uk" value="英 [kəm'pjuːtə]" sound=""> </item>
-</soundmark>
-<paraphrase>
-<item>n. 计算机；电脑；电子计算机</item>
-</paraphrase>
-<variant>
-<item name="复数" value="computers"></item>
-</variant>
-</word>
-</words>
+	<basic>
+		<usr id="" nickname="" header=""/>
+		<sence name = "坦克大战" symbol="tkwar" id="" totalstage="10" currentstage="4"/>
+		<tips> 
+			<item index = "1">				
+				<content value=":现在坦克战队已经可以在你的控制下移动了, 接下来为坦克增加&quot;射击&quot;能力吧. 请增加键盘事件, 使&quot;空格&quot;键按下时, 坦克可以发射炮弹."/>
+			</item>
+			<item index = "2">
+			</item>
+		</tips>
+	</basic>
+	<toolbox src="">
+	</toolbox>
+	<workspacestatus/>
+	<game>
+		<script src="" />
+		<script src="" />
+		<script src="" />
+	</game>
+	<words>
+		<word value="computer" start="4" note="儿童英语/CET4/计算机英语">
+			<soundmark>
+				<item type="us" value = "美 [kəm'pjutɚ]" sound=""/>
+				<item type="uk" value="英 [kəm'pjuːtə]" sound=""> </item>
+			</soundmark>
+			<paraphrase>
+				<item>n. 计算机；电脑；电子计算机</item>
+			</paraphrase>
+			<variant>
+				<item name="复数" value="computers"/>
+			</variant>
+		</word>
+	</words>
 </root>

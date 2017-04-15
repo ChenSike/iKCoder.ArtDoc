@@ -1,12 +1,9 @@
 <root>
-<tip symbol="tkwar">
-<stage value="4">
-<item index = "1">
-<content chinese="常量" english="" blocktype="VAR">
-<content chinese=":现在坦克战队已经可以在你的控制下移动了, 接下来为坦克增加&quot;射击&quot;能力吧. 请增加键盘事件, 使&quot;空格&quot;键按下时, 坦克可以发射炮弹.">
-</item>
-<item index = "2">
-</item>
-</stage>
-</tip>
+	<tip symbol="b_01_001">
+		<step value="1">
+			<item index = "1">
+				<content chinese="请按照顺序移动吃豆人，方向为：向左移动2步。"/>
+			</item>
+		</step>
+	</tip>
 </root>
