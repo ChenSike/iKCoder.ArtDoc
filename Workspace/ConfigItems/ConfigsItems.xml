@@ -14,6 +14,18 @@
 				<words symbol="b_01_001" stage="1">
 				</words>
 			</stage>
+			<stage step="2">
+				<tips symbol="b_01_001"/>
+				<toolbox symbol="workspace_toolbox_b_01_001_s2" src = "pacman\level2\Blocks\blocks.JS">					
+				</toolbox>
+				<workspacestatus symbol="workspace_status_b_01_001_s2"></workspacestatus>
+				<game>
+					<script src="pacman\level2\Engine\game_engine.JS"/>
+					<script src="pacman\level2\Scene\scene.JS"/>
+				</game>
+				<words symbol="b_01_001" stage="1">
+				</words>
+			</stage>
 		</stages>
 	</sence>
 </root>
