@@ -1,34 +1,34 @@
 <root>
-<list symbol="tkwar">
-<stage value="4">
-<word value="computer" note="儿童英语/CET4/计算机英语">
-<soundmark>
-<item type="us" value = "美 [kəm'pjutɚ]" sound=""></item>
-<item type="uk" value="英 [kəm'pjuːtə]" sound=""> </item>
-</soundmark>
-<paraphrase>
-<item>n. 计算机；电脑；电子计算机</item>
-</paraphrase>
-<variant>
-<item name="复数" value="computers"></item>
-</variant>
-</word>
-</stage>
-</list>
-<list symbol="b_01_001">
-<stage value="1">
-<word value="move" note="儿童英语/CET4/计算机英语">
-<soundmark>
-<item type="us" value = "美 [kəm'pjutɚ]" sound=""></item>
-<item type="uk" value="英 [kəm'pjuːtə]" sound=""> </item>
-</soundmark>
-<paraphrase>
-<item>v.移动</item>
-</paraphrase>
-<variant>
-<item name="复数" value="computers"></item>
-</variant>
-</word>
-</stage>
-</list>
+	<list symbol="tkwar">
+		<stage value="4">
+			<word value="computer" note="儿童英语/CET4/计算机英语" star="4">
+				<soundmark>
+					<item type="us" value = "美 [kəm'pjutɚ]" sound="sound_word_computer_us"/>
+					<item type="uk" value="英 [kəm'pjuːtə]" sound="symbol=sound_word_computer_uk"> </item>
+				</soundmark>
+				<paraphrase>
+					<item>n. 计算机；电脑；电子计算机</item>
+				</paraphrase>
+				<variant>
+					<item name="复数" value="computers"/>
+				</variant>
+			</word>
+		</stage>
+	</list>
+	<list symbol="b_01_001">
+		<stage value="1">
+			<word value="move" note="儿童英语/CET4/计算机英语" star="4">
+				<soundmark>
+					<item type="us" value = "美 [kəm'pjutɚ]" sound="sound_word_computer_us"></item>
+					<item type="uk" value="英 [kəm'pjuːtə]" sound="sound_word_computer_uk"> </item>
+				</soundmark>
+				<paraphrase>
+					<item>v.移动</item>
+				</paraphrase>
+				<variant>
+					<item name="复数" value="computers"/>
+				</variant>
+			</word>
+		</stage>
+	</list>
 </root>

@@ -4,12 +4,12 @@
 		<stages>
 			<stage step="1">
 				<tips symbol="b_01_001"/>
-				<toolbox symbol="workspace_toolbox_b_01_001_s1" src = "pacman\Blocks\blocks.JS">					
+				<toolbox symbol="workspace_toolbox_b_01_001_s1" src = "pacman\level1\Blocks\blocks.JS">					
 				</toolbox>
 				<workspacestatus symbol="workspace_status_b_01_001_s1"></workspacestatus>
 				<game>
-					<script src="pacman\Engine\game_engine.JS"/>
-					<script src="pacman\Scene\scene.JS"/>
+					<script src="pacman\level1\Engine\game_engine.JS"/>
+					<script src="pacman\level1\Scene\scene.JS"/>
 				</game>
 				<words symbol="b_01_001" stage="1">
 				</words>
