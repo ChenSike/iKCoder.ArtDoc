@@ -13,6 +13,13 @@
     <account_childs></account_childs>
     <account_sms></account_sms>
   </usrbasic>
+  <valueadded>
+	<personalstore>
+		<isallowed>1</isallowed>
+		<storesymbol></storesymbol>
+		<maxitem>100</maxitem>		
+	</personalstore>
+  </valueadded>
   <studystatus>
     <fiststarttime></fiststarttime>
     <currentsence>
