@@ -1,4 +1,12 @@
 <root>
 <account>
 </account>
+<produce>
+</produce>
+<parent>
+/root/usrbasic
+</parent>
+<newnodes>
+<item name="usr_nickname" value="" ></item>
+</newnodes>
 </root>

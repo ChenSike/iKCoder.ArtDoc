@@ -32,4 +32,8 @@
 			</variant>
 		</word>
 	</words>
+	<message>
+		<faild msg=""></faild>
+		<suc msg=""></suc>
+	</message>
 </root>

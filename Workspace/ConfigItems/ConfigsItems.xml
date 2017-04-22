@@ -6,25 +6,33 @@
 				<tips symbol="b_01_001"/>
 				<toolbox symbol="workspace_toolbox_b_01_001_s1" src = "pacman\level1\Blocks\blocks.JS">					
 				</toolbox>
-				<workspacestatus symbol="workspace_status_b_01_001_s1"></workspacestatus>
+				<workspacestatus symbol="workspace_status_b_01_001_s1"/>
 				<game>
 					<script src="pacman\level1\Engine\game_engine.JS"/>
 					<script src="pacman\level1\Scene\scene.JS"/>
 				</game>
 				<words symbol="b_01_001" stage="1">
 				</words>
+				<message>
+					<err code="ERR_Msg_Workspce_Coding"/>
+					<suc code="SC_Param_Workspace_Run"/>
+				</message>
 			</stage>
 			<stage step="2">
 				<tips symbol="b_01_001"/>
 				<toolbox symbol="workspace_toolbox_b_01_001_s2" src = "pacman\level2\Blocks\blocks.JS">					
 				</toolbox>
-				<workspacestatus symbol="workspace_status_b_01_001_s2"></workspacestatus>
+				<workspacestatus symbol="workspace_status_b_01_001_s2"/>
 				<game>
 					<script src="pacman\level2\Engine\game_engine.JS"/>
 					<script src="pacman\level2\Scene\scene.JS"/>
 				</game>
 				<words symbol="b_01_001" stage="1">
 				</words>
+				<message>
+					<err code="ERR_Msg_Workspce_Coding"/>
+					<suc code="SC_Param_Workspace_Run"/>
+				</message>
 			</stage>
 		</stages>
 	</sence>

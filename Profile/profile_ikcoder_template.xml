@@ -7,6 +7,11 @@
     <usr_name></usr_name>
     <usr_nickname></usr_nickname>
     <coins></coins>
+	<sex></sex>
+	<birthday></birthday>
+	<state></state>
+	<city></city>
+	<school></school>
     <account_status></account_status>
     <account_limited></account_limited>
     <account_head></account_head>
