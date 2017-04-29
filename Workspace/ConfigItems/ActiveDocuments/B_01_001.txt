@@ -1,0 +1,69 @@
+﻿	<sence name = "第一课：模式设别" symbol="b_01_001" id="" isfree="1" grade="B">	
+		<score score="30" diff="0.2"/>
+		<stages>
+			<stage step="1">
+				<tips symbol="b_01_001"/>
+				<toolbox symbol="b_01_001_s1" src = "B-01-001\pacman\1\Blocks\blocks.JS">					
+				</toolbox>
+				<workspacestatus symbol="workspace_status_b_01_001_s1"/>
+				<game>
+					<script src="B-01-001\pacman\1\Engine\game_engine.JS"/>
+					<script src="B-01-001\pacman\1\Scene\scene.JS"/>
+				</game>
+				<words symbol="b_01_001" stage="1">
+				</words>
+				<message>
+					<err code="ERR_Msg_Workspce_Coding"/>
+					<suc code="SC_Param_Workspace_Run"/>
+				</message>
+			</stage>
+			<stage step="2">
+				<tips symbol="b_01_001"/>
+				<toolbox symbol="b_01_001_s2" src = "B-01-001\pacman\2\Blocks\blocks.JS">					
+				</toolbox>
+				<workspacestatus symbol="workspace_status_b_01_001_s2"/>
+				<game>
+					<script src="B-01-001\pacman\2\Engine\game_engine.JS"/>
+					<script src="B-01-001\pacman\2\Scene\scene.JS"/>
+				</game>
+				<words symbol="b_01_001" stage="1">
+				</words>
+				<message>
+					<err code="ERR_Msg_Workspce_Coding"/>
+					<suc code="SC_Param_Workspace_Run"/>
+				</message>
+			</stage>
+			<stage step="3">
+				<tips symbol="b_01_001"/>
+				<toolbox symbol="b_01_001_s3" src = "B-01-001\pacman\3\Blocks\blocks.JS">					
+				</toolbox>
+				<workspacestatus symbol="workspace_status_b_01_001_s3"/>
+				<game>
+					<script src="B-01-001\pacman\3\Engine\game_engine.JS"/>
+					<script src="B-01-001\pacman\3\Scene\scene.JS"/>
+				</game>
+				<words symbol="b_01_001" stage="1">
+				</words>
+				<message>
+					<err code="ERR_Msg_Workspce_Coding"/>
+					<suc code="SC_Param_Workspace_Run"/>
+				</message>
+			</stage>
+			<stage step="4">
+				<tips symbol="b_01_001"/>
+				<toolbox symbol="b_01_001_s4" src = "B-01-001\pacman\4\Blocks\blocks.JS">					
+				</toolbox>
+				<workspacestatus symbol="workspace_status_b_01_001_s4"/>
+				<game>
+					<script src="B-01-001\pacman\4\Engine\game_engine.JS"/>
+					<script src="B-01-001\pacman\4\Scene\scene.JS"/>
+				</game>
+				<words symbol="b_01_001" stage="1">
+				</words>
+				<message>
+					<err code="ERR_Msg_Workspce_Coding"/>
+					<suc code="SC_Param_Workspace_Run"/>
+				</message>
+			</stage>
+		</stages>
+	</sence>

@@ -1,0 +1,23 @@
+<root>
+<hornor>
+<item id="1" title="算法小达人" img="'h_1_a.png' ></item>
+</hornor>
+<course>
+<item id="primary" title="跟着博士学Scratch编程(初级)" total="32" complete="20" img="course_simple.png"></item> 
+</course>
+<experience>
+<distributio><
+<item id="science" name="科学" value="250" color="rgb(36,90,186)"></item>
+</distributio> >
+<level>
+<item  id="primary" name="初级课程" value="85"></item>
+</level>
+</experience>
+<codetimes over="95">
+<times>
+<item date="2017-1-1" value="1"></item>
+<item date="2017-1-1" value="3"></item>
+<item date="2017-1-1" value="5"></item>
+</times>
+</codetimes>
+</root>
