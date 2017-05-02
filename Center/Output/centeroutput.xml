@@ -1,7 +1,7 @@
 <root>
-<hornor>
-<item id="1" title="算法小达人" img="h_1_a.png" ></item>
-</hornor>
+<honor>
+	<item name="" image=""></item>
+</honor>
 <course>
 <item id="primary" title="跟着博士学Scratch编程(初级)" total="32" complete="20" img="course_simple.png"></item> 
 </course>

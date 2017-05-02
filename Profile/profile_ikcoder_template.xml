@@ -31,6 +31,15 @@
 	  <symbol></symbol>
       <currentstage></currentstage>
     </currentsence>    
+	<finished>
+		<item>
+			<symbol></symbol>
+			<start></start>
+			<play></play>
+			<spendtime></spendtime>
+			<tmpentry></tmpentry>
+		</item>
+	</finished>
   </studystatus>
   <lessons>    
     <begin></begin>
