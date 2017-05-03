@@ -3,7 +3,11 @@
 	<item name="" image=""></item>
 </honor>
 <course>
-<item id="primary" title="跟着博士学Scratch编程(初级)" total="32" complete="20" img="course_simple.png"></item> 
+<item id="primary" title="跟着博士学Scratch编程(入门级)" total="32" complete="20" img="course_simple.png">
+	<symbollst>
+		<item title="" symbol="a_01_001"></item>
+	</symbollst>
+</item> 
 </course>
 <experience>
 <distributio>
