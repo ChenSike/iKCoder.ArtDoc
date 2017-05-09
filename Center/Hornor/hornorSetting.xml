@@ -1,6 +1,6 @@
 <root>
 	<centerhornor>
-		<item type="" name="" active="" inactive="" condition="">
+		<item type="" name="IT战士，计算机小能手" active="a.png" inactive="a.png" condition="A-01-001|A-01-002|A-01-003">
 		</item>
 	</centerhornor>
 </root>

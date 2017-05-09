@@ -28,8 +28,13 @@
   <studystatus>
     <fiststarttime></fiststarttime>
     <currentsence>
-	  <symbol></symbol>
-      <currentstage></currentstage>
+		<last>
+			<item type="" symbol=""></item>
+		</last>		
+		<item>
+			<symbol></symbol>
+			<currentstage></currentstage>
+		</item>	 
     </currentsence>    
 	<finished>
 		<item>
@@ -40,12 +45,9 @@
 			<tmpentry></tmpentry>
 		</item>
 	</finished>
+	<codetimeline recordtime="">
+		<item index="1" date="" value=""></item>
+	</codetimeline>
   </studystatus>
-  <lessons>    
-    <begin></begin>
-    <intermediate></intermediate>
-    <senior></senior>
-  </lessons>
   <friends></friends>
-  <codetime></codetime>
 </root>
