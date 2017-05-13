@@ -1,6 +1,6 @@
 <root>
-	<list symbol="tkwar">
-		<stage value="4">
+	<list symbol="a_01_001">
+		<stage value="1">
 			<word value="computer" note="儿童英语/CET4/计算机英语" star="4">
 				<soundmark>
 					<item type="us" value = "美 [kəm'pjutɚ]" sound="sound_word_computer_us"/>
@@ -11,6 +11,251 @@
 				</paraphrase>
 				<variant>
 					<item name="复数" value="computers"/>
+				</variant>
+			</word>
+			<word value="mouse" note="儿童英语/CET4/计算机英语" star="4">
+				<soundmark>
+					<item type="us" value = "美 [kəm'pjutɚ]" sound="sound_word_computer_us"/>
+					<item type="uk" value="英 [kəm'pjuːtə]" sound="symbol=sound_word_computer_uk"> </item>
+				</soundmark>
+				<paraphrase>
+					<item>n.鼠标</item>
+					<item>n.老鼠</item>
+				</paraphrase>
+				<variant>
+					<item name="复数" value="mice"/>
+				</variant>
+			</word>
+			<word value="keyboard" note="儿童英语/CET4/计算机英语" star="4">
+				<soundmark>
+					<item type="us" value = "美 [kəm'pjutɚ]" sound="sound_word_computer_us"/>
+					<item type="uk" value="英 [kəm'pjuːtə]" sound="symbol=sound_word_computer_uk"> </item>
+				</soundmark>
+				<paraphrase>
+					<item>n.键盘</item>
+				</paraphrase>
+				<variant>
+					<item name="" value=""/>
+				</variant>
+			</word>
+			<word value="monitor" note="儿童英语/CET4/计算机英语" star="4">
+				<soundmark>
+					<item type="us" value = "美 [kəm'pjutɚ]" sound="sound_word_computer_us"/>
+					<item type="uk" value="英 [kəm'pjuːtə]" sound="symbol=sound_word_computer_uk"> </item>
+				</soundmark>
+				<paraphrase>
+					<item>n.显示器</item>
+				</paraphrase>
+				<variant>
+					<item name="" value=""/>
+				</variant>
+			</word>
+			<word value="printer" note="儿童英语/CET4/计算机英语" star="4">
+				<soundmark>
+					<item type="us" value = "美 [kəm'pjutɚ]" sound="sound_word_computer_us"/>
+					<item type="uk" value="英 [kəm'pjuːtə]" sound="symbol=sound_word_computer_uk"> </item>
+				</soundmark>
+				<paraphrase>
+					<item>n.打印机</item>
+				</paraphrase>
+				<variant>
+					<item name="" value=""/>
+				</variant>
+			</word>
+			<word value="earphones" note="儿童英语/CET4/计算机英语" star="4">
+				<soundmark>
+					<item type="us" value = "美 [kəm'pjutɚ]" sound="sound_word_computer_us"/>
+					<item type="uk" value="英 [kəm'pjuːtə]" sound="symbol=sound_word_computer_uk"> </item>
+				</soundmark>
+				<paraphrase>
+					<item>n.耳机</item>
+				</paraphrase>
+				<variant>
+					<item name="" value=""/>
+				</variant>
+			</word>
+			<word value="hard driver" note="儿童英语/CET4/计算机英语" star="4">
+				<soundmark>
+					<item type="us" value = "美 [kəm'pjutɚ]" sound="sound_word_computer_us"/>
+					<item type="uk" value="英 [kəm'pjuːtə]" sound="symbol=sound_word_computer_uk"> </item>
+				</soundmark>
+				<paraphrase>
+					<item>n.硬盘</item>
+				</paraphrase>
+				<variant>
+					<item name="" value=""/>
+				</variant>
+			</word>
+			<word value="compact disc" note="儿童英语/CET4/计算机英语" star="4">
+				<soundmark>
+					<item type="us" value = "美 [kəm'pjutɚ]" sound="sound_word_computer_us"/>
+					<item type="uk" value="英 [kəm'pjuːtə]" sound="symbol=sound_word_computer_uk"> </item>
+				</soundmark>
+				<paraphrase>
+					<item>n.光盘</item>
+				</paraphrase>
+				<variant>
+					<item name="" value=""/>
+				</variant>
+			</word>
+			<word value="USB flash disk" note="儿童英语/CET4/计算机英语" star="4">
+				<soundmark>
+					<item type="us" value = "美 [kəm'pjutɚ]" sound="sound_word_computer_us"/>
+					<item type="uk" value="英 [kəm'pjuːtə]" sound="symbol=sound_word_computer_uk"> </item>
+				</soundmark>
+				<paraphrase>
+					<item>n.USB闪存盘</item>
+				</paraphrase>
+				<variant>
+					<item name="" value=""/>
+				</variant>
+			</word>
+			<word value="RAM" note="儿童英语/CET4/计算机英语" star="4">
+				<soundmark>
+					<item type="us" value = "美 [kəm'pjutɚ]" sound="sound_word_computer_us"/>
+					<item type="uk" value="英 [kəm'pjuːtə]" sound="symbol=sound_word_computer_uk"> </item>
+				</soundmark>
+				<paraphrase>
+					<item>n.内存，随机存取存储器，全称（random access memory）</item>
+				</paraphrase>
+				<variant>
+					<item name="" value=""/>
+				</variant>
+			</word>
+			<word value="CPU" note="儿童英语/CET4/计算机英语" star="4">
+				<soundmark>
+					<item type="us" value = "美 [kəm'pjutɚ]" sound="sound_word_computer_us"/>
+					<item type="uk" value="英 [kəm'pjuːtə]" sound="symbol=sound_word_computer_uk"> </item>
+				</soundmark>
+				<paraphrase>
+					<item>n.中央处理器，全称（Central Processing Unit）</item>
+				</paraphrase>
+				<variant>
+					<item name="" value=""/>
+				</variant>
+			</word>
+			<word value="grahpics card" note="儿童英语/CET4/计算机英语" star="4">
+				<soundmark>
+					<item type="us" value = "美 [kəm'pjutɚ]" sound="sound_word_computer_us"/>
+					<item type="uk" value="英 [kəm'pjuːtə]" sound="symbol=sound_word_computer_uk"> </item>
+				</soundmark>
+				<paraphrase>
+					<item>n.显卡</item>
+				</paraphrase>
+				<variant>
+					<item name="" value=""/>
+				</variant>
+			</word>
+			<word value="power supply" note="儿童英语/CET4/计算机英语" star="4">
+				<soundmark>
+					<item type="us" value = "美 [kəm'pjutɚ]" sound="sound_word_computer_us"/>
+					<item type="uk" value="英 [kəm'pjuːtə]" sound="symbol=sound_word_computer_uk"> </item>
+				</soundmark>
+				<paraphrase>
+					<item>n.电源</item>
+				</paraphrase>
+				<variant>
+					<item name="" value=""/>
+				</variant>
+			</word>
+			<word value="mother board" note="儿童英语/CET4/计算机英语" star="4">
+				<soundmark>
+					<item type="us" value = "美 [kəm'pjutɚ]" sound="sound_word_computer_us"/>
+					<item type="uk" value="英 [kəm'pjuːtə]" sound="symbol=sound_word_computer_uk"> </item>
+				</soundmark>
+				<paraphrase>
+					<item>n.主板</item>
+				</paraphrase>
+				<variant>
+					<item name="" value=""/>
+				</variant>
+			</word>
+		</stage>
+	</list>
+	<list symbol="a_01_002">
+		<stage value="1">
+			<word value="input" note="儿童英语/CET4/计算机英语" star="4">
+				<soundmark>
+					<item type="us" value = "美 [kəm'pjutɚ]" sound="sound_word_computer_us"/>
+					<item type="uk" value="英 [kəm'pjuːtə]" sound="symbol=sound_word_computer_uk"> </item>
+				</soundmark>
+				<paraphrase>
+					<item>v. 输入</item>
+				</paraphrase>
+				<variant>
+					<item name="" value=""/>
+				</variant>
+			</word>
+			<word value="output" note="儿童英语/CET4/计算机英语" star="4">
+				<soundmark>
+					<item type="us" value = "美 [kəm'pjutɚ]" sound="sound_word_computer_us"/>
+					<item type="uk" value="英 [kəm'pjuːtə]" sound="symbol=sound_word_computer_uk"> </item>
+				</soundmark>
+				<paraphrase>
+					<item>v. 输出</item>
+				</paraphrase>
+				<variant>
+					<item name="" value=""/>
+				</variant>
+			</word>
+			<word value="device" note="儿童英语/CET4/计算机英语" star="4">
+				<soundmark>
+					<item type="us" value = "美 [kəm'pjutɚ]" sound="sound_word_computer_us"/>
+					<item type="uk" value="英 [kəm'pjuːtə]" sound="symbol=sound_word_computer_uk"> </item>
+				</soundmark>
+				<paraphrase>
+					<item>n.设备</item>
+				</paraphrase>
+				<variant>
+					<item name="" value=""/>
+				</variant>
+			</word>
+			<word value="storage" note="儿童英语/CET4/计算机英语" star="4">
+				<soundmark>
+					<item type="us" value = "美 [kəm'pjutɚ]" sound="sound_word_computer_us"/>
+					<item type="uk" value="英 [kəm'pjuːtə]" sound="symbol=sound_word_computer_uk"> </item>
+				</soundmark>
+				<paraphrase>
+					<item>n.存储</item>
+				</paraphrase>
+				<variant>
+					<item name="" value=""/>
+				</variant>
+			</word>
+			<word value="computing" note="儿童英语/CET4/计算机英语" star="4">
+				<soundmark>
+					<item type="us" value = "美 [kəm'pjutɚ]" sound="sound_word_computer_us"/>
+					<item type="uk" value="英 [kəm'pjuːtə]" sound="symbol=sound_word_computer_uk"> </item>
+				</soundmark>
+				<paraphrase>
+					<item>n.运算设备</item>
+				</paraphrase>
+				<variant>
+					<item name="" value=""/>
+				</variant>
+			</word>
+			<word value="classify" note="儿童英语/CET4/计算机英语" star="4">
+				<soundmark>
+					<item type="us" value = "美 [kəm'pjutɚ]" sound="sound_word_computer_us"/>
+					<item type="uk" value="英 [kəm'pjuːtə]" sound="symbol=sound_word_computer_uk"> </item>
+				</soundmark>
+				<paraphrase>
+					<item>v.分类，归类</item>
+				</paraphrase>
+				<variant>
+					<item name="" value=""/>
+				</variant>
+			</word>
+			<word value="correct" note="儿童英语/CET4/计算机英语" star="4">
+				<soundmark>
+					<item type="us" value = "美 [kəm'pjutɚ]" sound="sound_word_computer_us"/>
+					<item type="uk" value="英 [kəm'pjuːtə]" sound="symbol=sound_word_computer_uk"> </item>
+				</soundmark>
+				<paraphrase>
+					<item>adj.正确的</item>
+				</paraphrase>
+				<variant>
+					<item name="" value=""/>
 				</variant>
 			</word>
 		</stage>
