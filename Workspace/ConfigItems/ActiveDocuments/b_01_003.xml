@@ -1,0 +1,114 @@
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<root>
+	<docbasic>
+		<doc_id/>
+		<doc_symbol>profile_13111111111</doc_symbol>
+	</docbasic>
+	<usrbasic>
+		<usr_name>13111111111</usr_name>
+		<usr_nickname>1111</usr_nickname>
+		<coins/>
+		<account_status/>
+		<account_limited/>
+		<account_head/>
+		<account_childs/>
+		<account_sms/>
+		<sex>1</sex>
+		<birthday>2009-07-01</birthday>
+		<state>广东</state>
+		<city>深圳</city>
+		<school>哀伤的风格环境</school>
+	</usrbasic>
+	<studystatus>
+		<fiststarttime/>
+		<currentsence>
+			<symbol>b_01_002</symbol>
+			<currentstage>2</currentstage>
+			<finishstage>
+				<item step="1" finish="0"/>
+				<item step="2" finish="0"/>
+				<item step="3" finish="0"/>
+				<item step="4" finish="0"/>
+			</finishstage>
+		</currentsence>
+		<currentsence>
+			<symbol>a_01_003</symbol>
+			<currentstage>1</currentstage>
+			<finishstage>
+				<item step="1" finish="0"/>
+			</finishstage>
+		</currentsence>
+		<currentsence>
+			<symbol>a_01_002</symbol>
+			<currentstage>1</currentstage>
+			<finishstage>
+				<item step="1" finish="0"/>
+			</finishstage>
+		</currentsence>
+		<currentsence>
+			<symbol>b_01_001</symbol>
+			<currentstage>3</currentstage>
+			<finishstage>
+				<item step="1" finish="1"/>
+				<item step="2" finish="1"/>
+				<item step="3" finish="0"/>
+				<item step="4" finish="0"/>
+			</finishstage>
+		</currentsence>
+		<currentsence>
+			<symbol>b_01_003</symbol>
+			<currentstage>1</currentstage>
+			<finishstage/>
+		</currentsence>
+		<currentsence>
+			<symbol>a_01_001</symbol>
+			<currentstage>1</currentstage>
+			<finishstage>
+				<item step="1" finish="0"/>
+			</finishstage>
+		</currentsence>
+		<currentsence>
+			<symbol>A_01_001</symbol>
+			<currentstage>1</currentstage>
+			<finishstage>
+				<item step="1" finish="0"/>
+			</finishstage>
+		</currentsence>
+		<currentsence>
+			<symbol>b_01_004</symbol>
+			<currentstage>1</currentstage>
+			<finishstage>
+				<item step="1" finish="0"/>
+				<item step="2" finish="0"/>
+				<item step="3" finish="0"/>
+				<item step="4" finish="0"/>
+			</finishstage>
+		</currentsence>
+		<finished>
+			<item>
+				<symbol>b_01_001</symbol>
+				<start>2017/5/10 1:21:15</start>
+				<play>1</play>
+				<spendtime spendtime="0"/>
+				<tmpentry>2017/5/10 1:21:25</tmpentry>
+			</item>
+		</finished>
+		<codetimeline recordtime="2017/5/10 1:21:24">
+			<item index="1" date="2017-05-10" value="0"/>
+		</codetimeline>
+	</studystatus>
+	<lessons>
+		<begin/>
+		<intermediate/>
+		<senior/>
+	</lessons>
+	<friends/>
+	<codetime/>
+	<valueadded>
+		<personalstore>
+			<isallowed>1</isallowed>
+			<storesymbol/>
+			<maxitem>100</maxitem>
+		</personalstore>
+	</valueadded>
+</root>
