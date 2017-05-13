@@ -1,0 +1,7 @@
+<root>
+	<item type="S" condition="" chinese="科学" english=""></item>
+	<item type="T" condition="A-01-001|A-01-002|A-01-003" chinese="技术" english=""></item>
+	<item type="E" condition="" chinese="工程" english=""></item>
+	<item type="M" condition="" chinese="数学" english=""></item>
+	<item type="L" condition="" chinese="语言" english=""></item>
+</root>
