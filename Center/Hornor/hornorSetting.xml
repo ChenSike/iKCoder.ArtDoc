@@ -2,5 +2,47 @@
 	<centerhornor>
 		<item type="" name="IT战士，计算机小能手" active="a.png" inactive="a.png" condition="A-01-001|A-01-002|A-01-003">
 		</item>
+		<item type="" name="小小作曲家" active="a.png" inactive="a.png" condition="B-03-009|B-02-001">
+		</item>
+		<item type="" name="编曲小能手" active="b.png" inactive="b.png" condition="C-02-009|C-02-010">
+		</item>
+		<item type="" name="初级多媒体工程师" active="a.png" inactive="a.png" condition="B-02-007|B-03-004|B-03-003">
+		</item>
+		<item type="" name="高级多媒体工程师" active="c.png" inactive="c.png" condition="C-02-004">
+		</item>
+		<item type="" name="初级游戏制作工程师" active="a.png" inactive="a.png" condition="B-02-010|B-03-015">
+		</item>
+		<item type="" name="中级游戏制作工程师" active="b.png" inactive="b.png" condition="C-02-007|C-03-005|C-03-007">
+		</item>
+		<item type="" name="高级游戏制作工程师" active="c.png" inactive="c.png" condition="D-01-002|D-01-003|D-01-006|D-02-011|D-02-006|D-02-005">
+		</item>
+		<item type="" name="初级创作达人" active="a.png" inactive="a.png" condition="B-03-008|B-03-006|B-03-007">
+		</item>
+		<item type="" name="高级创作达人" active="b.png" inactive="b.png" condition="C-01-014">
+		</item>
+		<item type="" name="数学之星" active="a.png" inactive="a.png" condition="C-01-011|C-01-013|C-02-006|C-03-014|C-03-013">
+		</item>
+		<item type="" name="初级物理工程师" active="a.png" inactive="a.png" condition="C-03-013|C-03-012|C-03-011|C-03-009|C-03-008">
+		</item>
+		<item type="" name="高级物理工程师" active="c.png" inactive="c.png" condition="D-02-002|D-02-004|D-01-010">
+		</item>
+		<item type="" name="初级动漫制作工程师" active="a.png" inactive="a.png" condition="B-02-003|B-03-003">
+		</item>
+		<item type="" name="中级动漫制作工程师" active="b.png" inactive="b.png" condition="C-02-015|C-02-014|C-02-009|C-01-001|C-02-001">
+		</item>
+		<item type="" name="高级动漫制作工程师" active="c.png" inactive="c.png" condition="D-01-001|D-01-011|D-02-003|D-01-015">
+		</item>
+		<item type="" name="初级小画家" active="a.png" inactive="a.png" condition="B-01-006|B-01-007|B-03-002">
+		</item>
+		<item type="" name="中级小画家" active="b.png" inactive="b.png" condition="C-01-010|C-01-007|C-01-002|C-01-008">
+		</item>
+		<item type="" name="高级小画家" active="c.png" inactive="c.png" condition="D-02-003">
+		</item>
+		<item type="" name="算法小达人" active="a.png" inactive="a.png" condition="D-02-016|D-02-014|D-02-013|D-02-012|D-01-012|D-01-016|D-02-001">
+		</item>
+		<item type="" name="逻辑达人--循环" active="a.png" inactive="a.png" condition="B-01-004|B-02-001|B-02-002|B-02-004|B-02-005|B-02-006|B-03-014">
+		</item>
+		<item type="" name="逻辑达人--条件判断" active="b.png" inactive="b.png" condition="C-01-012|D-01-007|D-01-010">
+		</item>
 	</centerhornor>
 </root>
