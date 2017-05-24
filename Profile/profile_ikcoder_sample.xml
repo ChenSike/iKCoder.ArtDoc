@@ -1,0 +1,112 @@
+<root>
+	<docbasic>
+		<doc_id/>
+		<doc_symbol>profile_ikcoder_18675521735</doc_symbol>
+	</docbasic>
+	<usrbasic>
+		<usr_name>18675521735</usr_name>
+		<usr_nickname>Sike</usr_nickname>
+		<coins/>
+		<sex>1</sex>
+		<birthday>2011-04-14</birthday>
+		<state>广东</state>
+		<city>广州</city>
+		<school/>
+		<account_status/>
+		<account_limited/>
+		<account_head/>
+		<account_childs/>
+		<account_sms/>
+	</usrbasic>
+	<valueadded>
+		<personalstore>
+			<isallowed>1</isallowed>
+			<storesymbol/>
+			<maxitem>100</maxitem>
+		</personalstore>
+	</valueadded>
+	<studystatus>
+		<fiststarttime/>
+		<currentsence>
+			<symbol/>
+			<currentstage/>
+			<finishstage/>
+		</currentsence>
+		<finished>
+			<item>
+				<symbol>b_01_001</symbol>
+				<finish>1</finish>
+				<start>5/13/2017 3:20:34 PM</start>
+				<play>1</play>
+				<spendtime spendtime="0"/>
+				<tmpentry>5/16/2017 1:00:58 AM</tmpentry>
+				<stages>
+					<stage step="1" finish="0"/>
+					<stage step="2" finish="1"/>
+					<stage step="3" finish="1"/>
+					<stage step="4" finish="1"/>
+				</stages>
+			</item>
+			<item>
+				<symbol>a_01_001</symbol>
+				<finish>0</finish>
+				<start>5/13/2017 9:22:24 PM</start>
+				<play>1</play>
+				<spendtime/>
+				<tmpentry>5/15/2017 10:54:18 AM</tmpentry>
+				<stages>
+					<stage step="1" finish="0"/>
+				</stages>
+			</item>
+			<item>
+				<symbol>b_01_002</symbol>
+				<finish>0</finish>
+				<start>5/14/2017 1:16:41 AM</start>
+				<play>1</play>
+				<spendtime spendtime="1"/>
+				<tmpentry>5/15/2017 12:00:23 PM</tmpentry>
+				<stages>
+					<stage step="1" finish="0"/>
+					<stage step="2" finish="1"/>
+					<stage step="3" finish="0"/>
+					<stage step="4" finish="0"/>
+				</stages>
+			</item>
+		</finished>
+		<currentsence>
+			<symbol>b_01_001</symbol>
+			<fiststarttime>5/13/2017 3:20:34 PM</fiststarttime>
+			<currentstage>4</currentstage>
+		</currentsence>
+		<codetimeline recordtime="5/16/2017 1:04:40 AM">
+			<item index="1" date="2017-05-13" value="393"/>
+			<item index="2" date="2017-05-14" value="0"/>
+			<item index="3" date="2017-05-15" value="0"/>
+			<item index="4" date="2017-05-16" value="0"/>
+		</codetimeline>
+		<currentsence>
+			<symbol>a_01_001</symbol>
+			<fiststarttime>5/13/2017 9:22:24 PM</fiststarttime>
+			<currentstage>1</currentstage>
+		</currentsence>
+		<currentsence>
+			<symbol>b_01_002</symbol>
+			<fiststarttime>5/14/2017 1:16:41 AM</fiststarttime>
+			<currentstage>2</currentstage>
+		</currentsence>
+	</studystatus>
+	<lessons>
+		<begin/>
+		<intermediate/>
+		<senior/>
+	</lessons>
+	<friends/>
+	<codetime/>
+	<messagestatus>
+		<read_sys>
+			<item id="3"/>
+			<item id="4"/>
+		</read_sys>
+		<rmv_msg/>
+	</messagestatus>
+</root>

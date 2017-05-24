@@ -1,0 +1,24 @@
+	<studystatus>
+		<exp total=""></exp>
+		<finished>
+			<item finish="0" symbol="b_01_001">			
+				<stages>
+					<stage step="1" finish="0"/>
+					<stage step="2" finish="1"/>
+					<stage step="3" finish="1"/>
+					<stage step="4" finish="1"/>
+				</stages>
+			</item>		    
+		</finished>
+		<currentsence>
+			<symbol>b_01_001</symbol>
+			<fiststarttime>5/13/2017 3:20:34 PM</fiststarttime>
+			<currentstage>4</currentstage>
+		</currentsence>
+		<codetimeline recordtime="5/16/2017 1:04:40 AM">
+			<item index="1" date="2017-05-13" value="393"/>
+			<item index="2" date="2017-05-14" value="0"/>
+			<item index="3" date="2017-05-15" value="0"/>
+			<item index="4" date="2017-05-16" value="0"/>
+		</codetimeline>		
+	</studystatus>

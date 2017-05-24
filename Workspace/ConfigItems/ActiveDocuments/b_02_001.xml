@@ -1,0 +1,56 @@
+<sence name="初级第五课：逻辑判断" symbol="b_02_001" id="" isfree="1" grade="B">
+	<score score="31" diff="0.8" />
+	<stages>
+		<stage step="1">
+			<toolbox src="B-02-001\pacman\1\Blocks\blocks.JS"/>
+			<game>
+				<script src="B-02-001\pacman\1\Engine\game_engine.JS" />
+				<script src="B-02-001\pacman\1\Scene\scene.JS" />
+			</game>
+			<words symbol="b_02_001" stage="1"/>
+			<message>
+				<err code="ERR_Msg_Workspce_Coding" />
+				<suc code="SC_Param_Workspace_Run" />
+			</message>
+		</stage>
+		<stage step="2">
+			<toolbox src="B-02-001\pacman\2\Blocks\blocks.JS"/>
+			<game>
+				<script src="B-02-001\pacman\2\Engine\game_engine.JS" />
+				<script src="B-02-001\pacman\2\Scene\scene.JS" />
+			</game>
+			<words symbol="b_02_001" stage="2"/>
+			<message>
+				<err code="ERR_Msg_Workspce_Coding" />
+				<suc code="SC_Param_Workspace_Run" />
+			</message>
+		</stage>
+		<stage step="3">
+			<toolbox src="B-02-001\pacman\3\Blocks\blocks.JS"/>
+			<workspacestatus />
+			<game>
+				<script src="B-02-001\pacman\3\Engine\game_engine.JS" />
+				<script src="B-02-001\pacman\3\Scene\scene.JS" />
+			</game>
+			<words symbol="b_02_001" stage="3"/>
+			<message>
+				<err code="ERR_Msg_Workspce_Coding" />
+				<suc code="SC_Param_Workspace_Run" />
+			</message>
+		</stage>
+		<stage step="4">
+			<tips />
+			<toolbox src="B-02-001\pacman\4\Blocks\blocks.JS"/>
+			<workspacestatus />
+			<game>
+				<script src="B-02-001\pacman\4\Engine\game_engine.JS" />
+				<script src="B-02-001\pacman\4\Scene\scene.JS" />
+			</game>
+			<words symbol="b_02_001" stage="4"/>
+			<message>
+				<err code="ERR_Msg_Workspce_Coding" />
+				<suc code="SC_Param_Workspace_Run" />
+			</message>
+		</stage>
+	</stages>
+</sence>
