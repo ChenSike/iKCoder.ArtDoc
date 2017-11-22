@@ -1,5 +1,6 @@
 <root>
 	<sence name = "第一课：模式识别" symbol="b_01_001" id="" isfree="1">
+
 		<score score="30" diff="0.2"/>
 		<stages>
 			<stage step="1">

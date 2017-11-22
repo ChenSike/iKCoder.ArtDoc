@@ -1,7 +1,7 @@
-<doc_datastore username="">
-	<access isallow="0" maxitems="50" maxfilesize="5">
+<datastore username="">
+	<access isallow="0" maxitems="20" maxfilesize="5">
 	</access>
 	<datalist>
-		<item symbol="XXXXXX" type="bin" filetype="png"></item>
+		<item symbol="XXXXXX" id="guid" type="bin" filetype="png"></item>
 	</datalist>
-</doc_datastore>
+</datastore>

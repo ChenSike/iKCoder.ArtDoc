@@ -1,1 +1,8 @@
-<root symbol="data_list_kps"><kp symbol="a_01_001"><step value="1"><item index="1">XXXXXXX</item><item index="2">YYYYYYYY</item></step></kp></root>
+<root symbol="data_list_kps">
+	<kp symbol="a_01_001">
+		<step value="1">
+			<item index="1">XXXXXXX</item>
+			<item index="2">YYYYYYYY</item>
+		</step>
+	</kp>
+</root>

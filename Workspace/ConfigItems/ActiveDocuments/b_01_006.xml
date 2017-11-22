@@ -1,13 +1,13 @@
-<sence name="第一课：逻辑判断" symbol="B-02-001_3D" id="" isfree="1" grade="B" unit="2" enable="1" index="11">
+<sence name="第六课：绘制简单图形1" symbol="b_01_006" id="" isfree="1" grade="B" unit="1" enable="1" index="6">
 	<score score="30" diff="0.2" />
 	<stages>
 		<stage step="1">
 			<tips />
-			<toolbox src="B-02-001_3D\pacman\1\Blocks\blocks.JS" />
+			<toolbox src="B-01-006_3D\3dBoard\1\Blocks\blocks.JS" />
 			<workspacestatus />
 			<game>
-				<script src="common\pacman.JS" />
-				<script src="B-02-001_3D\pacman\1\Scene\scene.JS" />
+				<script src="common\draw3d.js" />
+				<script src="B-01-006_3D\3dBoard\1\Scene\scene.JS" />
 			</game>
 			<words symbol="b_01_006" stage="1" />
 			<message>
@@ -17,11 +17,11 @@
 		</stage>
 		<stage step="2">
 			<tips />
-			<toolbox src="B-02-001_3D\pacman\2\Blocks\blocks.JS" />
+			<toolbox src="B-01-006_3D\3dBoard\2\Blocks\blocks.JS" />
 			<workspacestatus />
 			<game>
-				<script src="common\pacman.JS" />
-				<script src="B-02-001_3D\pacman\2\Scene\scene.JS" />
+				<script src="common\draw3d.js" />
+				<script src="B-01-006_3D\3dBoard\2\Scene\scene.JS" />
 			</game>
 			<words symbol="b_01_006" stage="1" />
 			<message>
@@ -31,11 +31,11 @@
 		</stage>
 		<stage step="3">
 			<tips />
-			<toolbox src="B-02-001_3D\pacman\3\Blocks\blocks.JS" />
+			<toolbox src="B-01-006_3D\3dBoard\3\Blocks\blocks.JS" />
 			<workspacestatus />
 			<game>
-				<script src="common\pacman.JS" />
-				<script src="B-02-001_3D\pacman\3\Scene\scene.JS" />
+				<script src="common\draw3d.js" />
+				<script src="B-01-004\3dBoard\3\Scene\scene.JS" />
 			</game>
 			<words symbol="b_01_006" stage="1" />
 			<message>
@@ -45,11 +45,11 @@
 		</stage>
 		<stage step="4">
 			<tips />
-			<toolbox src="B-02-001_3D\pacman\4\Blocks\blocks.JS" />
+			<toolbox src="B-01-006_3D\3dBoard\4\Blocks\blocks.JS" />
 			<workspacestatus />
 			<game>
-				<script src="common\pacman.JS" />
-				<script src="B-02-001_3D\pacman\4\Scene\scene.JS" />
+				<script src="common\draw3d.js" />
+				<script src="B-01-006_3D\3dBoard\4\Scene\scene.JS" />
 			</game>
 			<words symbol="b_01_006" stage="1" />
 			<message>

@@ -1,65 +1,65 @@
-<sence name="第一课：模式设别" symbol="b_01_001" id="" isfree="1" grade="B">
-	<score score="30" diff="0.2"/>
+<sence name="第一课：模式设别" symbol="b_01_001" id="" isfree="1" grade="B" next="b_01_002" unit="1" enable="1" index="1">
+	<score score="30" diff="0.2" />
 	<stages>
 		<stage step="1">
-			<tips symbol="b_01_001"/>
-			<toolbox symbol="b_01_001_s1" src="B-01-001\pacman\1\Blocks\blocks.JS"/>
-			<workspacestatus symbol="workspace_status_b_01_001_s1"/>
+			<tips symbol="b_01_001" />
+			<toolbox symbol="b_01_001_s1" src="B-01-001_3D\pacman\1\Blocks\blocks.JS" />
+			<workspacestatus/>
 			<game>
-				<script src="B-01-001\pacman\1\Engine\game_engine.JS"/>
-				<script src="B-01-001\pacman\1\Scene\scene.JS"/>
+				<script src="Common\pacman.js" />
+				<script src="B-01-001_3D\pacman\1\Scene\scene.JS" />
 			</game>
-			<words symbol="b_01_001" stage="1"/>
+			<words symbol="b_01_001" stage="1" />
 			<message>
-				<err code="ERR_Msg_Workspce_Coding"/>
-				<suc code="SC_Param_Workspace_Run"/>
+				<err code="ERR_Msg_Workspce_Coding" />
+				<suc code="SC_Param_Workspace_Run" />
 			</message>
 			<knowledeg>
-				<item id = "1" content="使用有条件的循环"></item>
-				<item id="2" content="构建自己的顺序并解决问题"></item>
-				<item id="3" content="创建算法识别模式"></item>
+				<item id="1" content="使用有条件的循环" />
+				<item id="2" content="构建自己的顺序并解决问题" />
+				<item id="3" content="创建算法识别模式" />
 			</knowledeg>
 		</stage>
 		<stage step="2">
-			<tips symbol="b_01_001"/>
-			<toolbox symbol="b_01_001_s2" src="B-01-001\pacman\2\Blocks\blocks.JS"/>
-			<workspacestatus symbol="workspace_status_b_01_001_s2"/>
+			<tips symbol="b_01_001" />
+			<toolbox symbol="b_01_001_s2" src="B-01-001_3D\pacman\2\Blocks\blocks.JS" />
+			<workspacestatus/>
 			<game>
-				<script src="B-01-001\pacman\2\Engine\game_engine.JS"/>
-				<script src="B-01-001\pacman\2\Scene\scene.JS"/>
+				<script src="Common\pacman.js" />
+				<script src="B-01-001_3D\pacman\2\Scene\scene.JS" />
 			</game>
-			<words symbol="b_01_001" stage="1"/>
+			<words symbol="b_01_001" stage="1" />
 			<message>
-				<err code="ERR_Msg_Workspce_Coding"/>
-				<suc code="SC_Param_Workspace_Run"/>
+				<err code="ERR_Msg_Workspce_Coding" />
+				<suc code="SC_Param_Workspace_Run" />
 			</message>
 		</stage>
 		<stage step="3">
-			<tips symbol="b_01_001"/>
-			<toolbox symbol="b_01_001_s3" src="B-01-001\pacman\3\Blocks\blocks.JS"/>
-			<workspacestatus symbol="workspace_status_b_01_001_s3"/>
+			<tips symbol="b_01_001" />
+			<toolbox symbol="b_01_001_s3" src="B-01-001_3D\pacman\3\Blocks\blocks.JS" />
+			<workspacestatus/>
 			<game>
-				<script src="B-01-001\pacman\3\Engine\game_engine.JS"/>
-				<script src="B-01-001\pacman\3\Scene\scene.JS"/>
+				<script src="Common\pacman.js" />
+				<script src="B-01-001_3D\pacman\3\Scene\scene.JS" />
 			</game>
-			<words symbol="b_01_001" stage="1"/>
+			<words symbol="b_01_001" stage="1" />
 			<message>
-				<err code="ERR_Msg_Workspce_Coding"/>
-				<suc code="SC_Param_Workspace_Run"/>
+				<err code="ERR_Msg_Workspce_Coding" />
+				<suc code="SC_Param_Workspace_Run" />
 			</message>
 		</stage>
 		<stage step="4">
-			<tips symbol="b_01_001"/>
-			<toolbox symbol="b_01_001_s4" src="B-01-001\pacman\4\Blocks\blocks.JS"/>
-			<workspacestatus symbol="workspace_status_b_01_001_s4"/>
+			<tips symbol="b_01_001" />
+			<toolbox symbol="b_01_001_s4" src="B-01-001_3D\pacman\4\Blocks\blocks.JS" />
+			<workspacestatus/>
 			<game>
-				<script src="B-01-001\pacman\4\Engine\game_engine.JS"/>
-				<script src="B-01-001\pacman\4\Scene\scene.JS"/>
+				<script src="Common\pacman.js" />
+				<script src="B-01-001_3D\pacman\4\Scene\scene.JS" />
 			</game>
-			<words symbol="b_01_001" stage="1"/>
+			<words symbol="b_01_001" stage="1" />
 			<message>
-				<err code="ERR_Msg_Workspce_Coding"/>
-				<suc code="SC_Param_Workspace_Run"/>
+				<err code="ERR_Msg_Workspce_Coding" />
+				<suc code="SC_Param_Workspace_Run" />
 			</message>
 		</stage>
 	</stages>

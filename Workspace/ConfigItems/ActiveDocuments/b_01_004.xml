@@ -1,15 +1,15 @@
-<sence name="第五课：条件循环" symbol="b_01_005" id="" isfree="1" grade="B" unit="1" enable="1" index="5">
+<sence name="第四课：条件逻辑" symbol="b_01_004" id="" isfree="1" grade="B" unit="1" next="b_01_005" enable="1" index="4">
 	<score score="30" diff="0.2" />
 	<stages>
 		<stage step="1">
 			<tips />
-			<toolbox src="B-01-005_3D\pacman\1\Blocks\blocks.JS"/>
+			<toolbox src="B-01-004_3D\pacman\1\Blocks\blocks.JS"/>
 			<workspacestatus />
 			<game>
 				<script src="Common\pacman.js" />
-				<script src="B-01-005_3D\pacman\1\Scene\scene.JS" />
+				<script src="B-01-004_3D\pacman\1\Scene\scene.JS" />
 			</game>
-			<words symbol="b_01_005" stage="1"/>
+			<words symbol="b_01_004" stage="1"/>
 			<message>
 				<err code="ERR_Msg_Workspce_Coding" />
 				<suc code="SC_Param_Workspace_Run" />
@@ -17,13 +17,13 @@
 		</stage>
 		<stage step="2">
 			<tips />
-			<toolbox src="B-01-005_3D\pacman\2\Blocks\blocks.JS"/>
+			<toolbox src="B-01-004_3D\pacman\2\Blocks\blocks.JS"/>
 			<workspacestatus />
 			<game>
 				<script src="Common\pacman.js" />
-				<script src="B-01-005_3D\pacman\2\Scene\scene.JS" />
+				<script src="B-01-004_3D\pacman\2\Scene\scene.JS" />
 			</game>
-			<words symbol="b_01_005" stage="1"/>
+			<words symbol="b_01_004" stage="1"/>
 			<message>
 				<err code="ERR_Msg_Workspce_Coding" />
 				<suc code="SC_Param_Workspace_Run" />
@@ -31,13 +31,13 @@
 		</stage>
 		<stage step="3">
 			<tips />
-			<toolbox src="B-01-005_3D\pacman\3\Blocks\blocks.JS"/>
+			<toolbox src="B-01-004_3D\pacman\3\Blocks\blocks.JS"/>
 			<workspacestatus />
 			<game>
 				<script src="Common\pacman.js" />
-				<script src="B-01-005_3D\pacman\3\Scene\scene.JS" />
+				<script src="B-01-004_3D\pacman\3\Scene\scene.JS" />
 			</game>
-			<words symbol="b_01_005" stage="1"/>
+			<words symbol="b_01_004" stage="1"/>
 			<message>
 				<err code="ERR_Msg_Workspce_Coding" />
 				<suc code="SC_Param_Workspace_Run" />
@@ -45,13 +45,13 @@
 		</stage>
 		<stage step="4">
 			<tips />
-			<toolbox src="B-01-005_3D\pacman\4\Blocks\blocks.JS"/>
+			<toolbox src="B-01-004_3D\pacman\4\Blocks\blocks.JS"/>
 			<workspacestatus />
 			<game>
 				<script src="Common\pacman.js" />
-				<script src="B-01-005_3D\pacman\4\Scene\scene.JS" />
+				<script src="B-01-004_3D\pacman\4\Scene\scene.JS" />
 			</game>
-			<words symbol="b_01_005" stage="1"/>
+			<words symbol="b_01_004" stage="1"/>
 			<message>
 				<err code="ERR_Msg_Workspce_Coding" />
 				<suc code="SC_Param_Workspace_Run" />

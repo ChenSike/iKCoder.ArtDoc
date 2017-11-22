@@ -1,0 +1,19 @@
+<sence name="第二课：应用高级逻辑" symbol="b_02_002" id="" isfree="1" grade="B" unit="2" enable="1" index="12">
+	<score score="30" diff="0.2" />
+	<stages>
+		<stage step="1">
+			<tips />
+			<toolbox src="B-02-002_2D\run\1\Blocks\blocks.JS" />
+			<workspacestatus />
+			<game>
+				<script src="B-02-002_2D\run\1\Scene\GameRun.JS" />
+				<script src="B-02-002_2D\run\1\Scene\scene.JS" />
+			</game>
+			<words symbol="b_01_006" stage="1" />
+			<message>
+				<err code="ERR_Msg_Workspce_Coding" />
+				<suc code="SC_Param_Workspace_Run" />
+			</message>
+		</stage>
+	</stages>
+</sence>
